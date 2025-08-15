@@ -60,10 +60,3 @@ public class Main {
         sc.close();
     }
 }
-echo "# ELEVATE_LABS_INTERN_TASK5" >> README.md
-git init
-git add README.md
-git commit -m "first commit"
-git branch -M main
-git remote add origin https://github.com/avinash-bobbadi/ELEVATE_LABS_INTERN_TASK5.git
-git push -u origin main
